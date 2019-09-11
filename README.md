@@ -1,2 +1,2 @@
-![Alt text](https://1n0t.github.io/images/global/animation1N0T.svg)
-<img src="https://1n0t.github.io/images/global/animation1N0T.svg">
+![Alt text](https://1n0t.github.io/images/global/logoInicial_animated.svg)
+<img src="https://1n0t.github.io/images/global/logoInicial_animated.svg">
